@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Дефект №1](https://github.com/aidthebest/java-2.1/issues/1)
+* [The "top up" operation does not work correctly](https://github.com/aidthebest/java-2.1/issues/1)
 
 
 ## Описание процесса тестирования

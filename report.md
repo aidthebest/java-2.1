@@ -1,4 +1,4 @@
-# Отчёт о тестировании Credit Card Number Validator
+# Отчёт о тестировании Money Transfer
 
 ## Краткое описание
 
